@@ -128,7 +128,7 @@ GitHub URL: https://github.com/DivyaniUpadhyay
 
  (3) Gouri Phadnis 
  
-GitHub URL:  https://github.com/gouriphadnis03
+GitHub URL:  https://github.com/gouriphadnis0301
 
   (i)   	Experienced in CSS styling, capable of creating visually appealing and responsive web designs.
   (ii)	  Demonstrates a knack for identifying and resolving CSS-related issues efficiently, contributing to the smooth functioning of projects.
